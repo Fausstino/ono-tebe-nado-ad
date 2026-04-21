@@ -7,5 +7,5 @@
 - HTML
 - CSS
 
-Github: https://github.com/Fausstino/ono-tebe-nado-ad \n
+Github: https://github.com/Fausstino/ono-tebe-nado-ad <br />
 Автор: Fausstino
